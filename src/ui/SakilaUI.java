@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package ui_3inf1v;
+package ui;
 
-import PABD_3inf1v.Customer;
-import PABD_3inf1v.CustomerDAO;
+import luanfernandesbezerra.Customer;
+import luanfernandesbezerra.CustomerDAO;
 import java.sql.SQLException;
 import java.util.List;
 import java.util.logging.Level;
